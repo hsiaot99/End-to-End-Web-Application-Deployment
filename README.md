@@ -22,3 +22,4 @@ This repository contains Terraform configurations for deploying a fully-function
 6. **VPC (Virtual Private Cloud)**
    - **Network Isolation**: Custom VPC with public and private subnets.
    - **Internet Gateway and NAT Gateway**: Facilitates internet access for public resources and private subnet access.
+Ref. https://www.udemy.com/course/terraform_training/
